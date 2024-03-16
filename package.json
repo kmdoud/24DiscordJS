@@ -1,0 +1,29 @@
+{
+  "name": "24discordbot",
+  "version": "1.0.0",
+  "description": "DiscordJS tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmdoud/24DiscordJS.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "KMD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmdoud/24DiscordJS/issues"
+  },
+  "homepage": "https://github.com/kmdoud/24DiscordJS#readme",
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
